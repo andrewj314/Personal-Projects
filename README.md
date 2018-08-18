@@ -1,7 +1,7 @@
 # Personal-Projects
 A grab-bag of various projects I've worked on - this repository includes programming samples as well as examples of technical writing, creative writing, and presentations. 
 
-# Programming
+# Data Science / Machine Learning
 
 House Pricing Kaggle Competition: This was a Kaggle competition from July 2018. The idea was to take a dataset of 79 features relating to house information (lot frontage, number of bathrooms, roof type, neighborhood, etc) and predict the house price. I used a combination of Lasso regression and XGBoost and was able to crack the top 20% of competitors. I'm still working on improving this model in my "vast spare time" :)
 
