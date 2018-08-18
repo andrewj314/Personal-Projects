@@ -1,5 +1,7 @@
 # Personal-Projects
-A grab-bag of machine learning, probability, and one-off projects I've worked on 
+A grab-bag of various projects I've worked on - this repository includes programming samples as well as examples of technical writing, creative writing, and presentations. 
+
+# Programming
 
 House Pricing Kaggle Competition: This was a Kaggle competition from July 2018. The idea was to take a dataset of 79 features relating to house information (lot frontage, number of bathrooms, roof type, neighborhood, etc) and predict the house price. I used a combination of Lasso regression and XGBoost and was able to crack the top 20% of competitors. I'm still working on improving this model in my "vast spare time" :)
 
@@ -13,9 +15,16 @@ Using Long Short-Term Memory neural networks (LSTMs) implemented via the Keras p
 https://www.youtube.com/watch?v=ftMq5ps503w
 obviously was not particularly predictive but I learned a lot about Keras!
 
+# Presentations
 
 CU Prime talk:
 This was a recruiting talk aimed at undergraduate physics majors. The goal was to convince undergrads to get into particle physics research and lure them to CERN with promises of cheese and skiing. As a result of this talk, I wound up supervising an undergrad who decided to do his summer research internship on my experiment
 
 Thesis defense:
 My PhD defense. Slightly more serious than the CU Prime talk (but with fewer pictures of cows)
+
+# Writing samples
+
+PhD thesis - my dissertation. For examples of technical writing that don't descend immediately into CERN jargon, I'd recommend chapters 1 and 2.
+
+rateHikes.txt - a dumb little holiday poem I wrote for the Vanguard fixed income trading floor. Pretty self explanatory - the only piece of Vanguard-info needed is that "Goliath" is the name of our fixed income building.
